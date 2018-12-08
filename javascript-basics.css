@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+	}
+
+	#button{
+		background-color: pink;
+		font-family: helvetica;
+		font-weight: bold;
+		padding: 20px;
+		margin: 20px;
+	}
+
+	#total{
+		color: white;
+	}
